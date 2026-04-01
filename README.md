@@ -17,7 +17,7 @@ JAIPLAN/
 
 ---
 
-## ⚙️ Instalación y ejecución
+##  Instalación y ejecución
 
 ### Frontend
 ```bash
