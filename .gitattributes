@@ -1,0 +1,2 @@
+frontend-banana/**/*.vue linguist-language=Vue
+backend-banana/**/*.php linguist-language=PHP
